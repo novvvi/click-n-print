@@ -1,0 +1,5 @@
+.env
+*.log
+click-n-print-0cea60f3571d.json
+__pycache__
+*.exe
